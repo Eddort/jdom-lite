@@ -1,0 +1,25 @@
+{
+  "name": "diff-by-name",
+  "version": "0.0.1",
+  "description": "diif object by key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddort/diff-by-key.git"
+  },
+  "keywords": [
+    "js",
+    "difflib",
+    "diff",
+    "tree"
+  ],
+  "author": "Eddort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddort/diff-by-key/issues"
+  },
+  "homepage": "https://github.com/Eddort/diff-by-key#readme"
+}
